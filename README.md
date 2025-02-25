@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Aditya Dhadphale<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<h3 align="center">A passionate UI/UX Designer & FrontEnd Developer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 <p align="center">
   <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Computer+Science+Student;UI/UX+Developer;Logo+Designer+and+Brand+Identity+Designer"></a>
 </p>
@@ -9,14 +9,14 @@
 
 <p align="left"> <a href="https://twitter.com/suracechoudhary" target="blank"><img src="https://img.shields.io/twitter/follow/suracechoudhary?logo=twitter&style=for-the-badge" alt="suracechoudhary" /></a> </p>
 
-- 💬 Ask me about **Design(UI/UX, Logo, Label branding) & Front-End Development**
+- 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **suresh12345x@gmail.com & sureshchoudhary.work@gmail.com**
+- 📫 How to reach me **adisworkspace101@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view">Resume📃</a>
+- 📄 Know about my experiences <a href="">Resume📃</a>
 - <table>
   <tr>
-    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sschoudhary30&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
+    <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-dhadphale7&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sschoudhary&theme=dark&width=10000" alt="sureshchoudhary" /></td>
   </tr>
 </table>
@@ -30,11 +30,11 @@
 <p align="left">
 
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/suracechoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/uracechoudhary" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sschoudhary30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sschoudhary30/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/su.race0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/su.race0/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/uracechoudhary" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sschoudhary30/" height="30" width="40" /></a>
+
 <a href="https://www.behance.net/desyn_suresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="desyn_suresh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/suresh_aumix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suresh_aumix/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -58,8 +58,7 @@
 <br>
 
 </p>
-<h3 align="left">One joke please🤣🤣:</h3>
+
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
