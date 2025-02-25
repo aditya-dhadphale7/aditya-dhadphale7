@@ -23,7 +23,7 @@
 <h3 align="left"> Coding Profile</h3>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/suresh_aumix?ext=heatmap)
+![Leetcode Stats]()
 
 
 <h3 align="left">Connect with me:</h3>
